@@ -12,7 +12,7 @@ A curated list of awesome Mathematical Neuroscience resources.
 
 <hr>
 
-## Neuronal Modeling
+## Computational Neuroscience
 
 - [Computational Neuroscience: A First Course](https://students.aiu.edu/submissions/profiles/resources/onlineBook/q9C4X4_computational%20neuroscience.pdf) - H. A. Mallot
 - [Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition](https://neuronaldynamics.epfl.ch/) - Wulfram Gerstner, Werner M. Kistler, Richard Naud & Liam Paninski
