@@ -4,7 +4,7 @@ A curated list of awesome Mathematical Neuroscience resources.
 
 ## Contents
 
-- [General Computational Neuroscience](#general-computational-neuroscience)
+- [General Mathematical/Computational Neuroscience](#general-mathematicalcomputational-neuroscience)
 - [Topics in Neuronal Modeling](#topics-in-neuronal-modeling)
 - [Topics in Neural Coding](#topics-in-neural-coding)
 - [Topics in Network Neuroscience](#topics-in-network-neuroscience)
@@ -13,11 +13,11 @@ A curated list of awesome Mathematical Neuroscience resources.
 
 <hr>
 
-## General Computational Neuroscience
+## General Mathematical/Computational Neuroscience
 
 - [Computational Neuroscience: A First Course](https://students.aiu.edu/submissions/profiles/resources/onlineBook/q9C4X4_computational%20neuroscience.pdf) - H. A. Mallot
-- []()
-
+- [Mathematical Foundations of Neuroscience]()
+- [Theoretical Neuroscience]()
 
 ## Topics in Neuronal Modeling
 
@@ -28,12 +28,17 @@ A curated list of awesome Mathematical Neuroscience resources.
 
 ## Topics in Neural Coding
 
+- []() - 
 - [Combinatorial Neural Codes from a Mathematical Coding Theory Perspective](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1061&context=mathfacpub) - Curto et al.
 
 
 ## Topics in Network Neuroscience
 
-- [Network Neuroscience](https://www.amazon.com.br/Network-Neuroscience-English-Flavio-Fr%C3%B6hlich-ebook/dp/B01LWN9C1C) - Flavio Fröhlich
+- [Discovering the Human Connectome]() - Olaf Sporns (MIT Press, 2012).
+- [Methods in Brain Connectivity Inference through Multivariate Time Series Analysis.]() - Sameshima, K. & Baccalá, L. (CRC Press, 2014).
+- [Network Neuroscience](https://www.amazon.com.br/Network-Neuroscience-English-Flavio-Fr%C3%B6hlich-ebook/dp/B01LWN9C1C) - Flavio Fröhlich.
+- [Networks of the Brain]() - Olaf Sporns (MIT Press, 2010).
+
 
 
 
