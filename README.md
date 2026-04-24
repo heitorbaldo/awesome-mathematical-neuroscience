@@ -432,49 +432,12 @@ A curated list of resources at the intersection of mathematics, theoretical neur
 - [Open Source Brain](https://www.opensourcebrain.org/) - Community for open computational neuroscience models.
 - [Theoretical Neuroscience Slack / communities](https://neuromatch.io/) - Neuromatch and related spaces often host theory/modeling discussions.
 
----
-
-## Adjacent Mathematics
-
-### Dynamical Systems and Bifurcation Theory
-
-- [Nonlinear Dynamics and Chaos](https://www.routledge.com/Nonlinear-Dynamics-and-Chaos-With-Applications-to-Physics-Biology-Chemistry-and-Engineering/Strogatz/p/book/9780813349107) - Steven Strogatz. Standard introductory text.
-- [Differential Equations, Dynamical Systems, and an Introduction to Chaos](https://www.sciencedirect.com/book/9780123820105/differential-equations-dynamical-systems-and-an-introduction-to-chaos) - Hirsch, Smale, and Devaney.
-- [Elements of Applied Bifurcation Theory](https://link.springer.com/book/10.1007/978-1-4757-3978-7) - Yuri Kuznetsov.
-- [Mathematical Physiology](https://link.springer.com/book/10.1007/978-0-387-75847-3) - James Keener and James Sneyd.
-
-### Information Theory, Statistics, and Inference
-
-- [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) - Cover and Thomas.
-- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itila/book.html) - David MacKay.
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) - Christopher Bishop.
-- [Probabilistic Graphical Models](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) - Daphne Koller and Nir Friedman.
-
-### Graph Theory and Network Science
-
-- [Networks: An Introduction](https://global.oup.com/academic/product/networks-9780199206650) - Mark Newman.
-- [Network Science](https://networksciencebook.com/) - Albert-László Barabási. Free online book.
-- [Dynamical Processes on Complex Networks](https://www.cambridge.org/core/books/dynamical-processes-on-complex-networks/9E8A48D54B34D2B8805D7D7F2062E680) - Alain Barrat, Marc Barthélemy, and Alessandro Vespignani.
-- [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg. Free online book.
-
-### Topology, Geometry, and Algebra
-
-- [Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf) - Herbert Edelsbrunner and John Harer.
-- [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist. Free notes.
-- [Topology and Data](https://www.ams.org/publications/journals/notices/200704/tx070400426p.pdf) - Gunnar Carlsson (Notices of the AMS, 2009). TDA overview.
-- [Algebraic Statistics for Computational Biology](https://www.cambridge.org/core/books/algebraic-statistics-for-computational-biology/BEB0FDB5BC0E9D7D5486E8F3908DBD28) - Pachter and Sturmfels, editors. Useful for algebraic/combinatorial methods.
-- [Oriented Matroids](https://www.cambridge.org/core/books/oriented-matroids/43C68AC9F92F5D2EF6F920F2C87516CA) - Björner et al. Reference for oriented matroids.
 
 ---
 
 ## Contributing
 
-Contributions are welcome. Suggested additions should be:
-
-- Relevant to mathematical, theoretical, computational, network, statistical, or multiscale neuroscience.
-- Linked to stable official pages, DOI pages, arXiv pages, documentation, or reputable project repositories.
-- Briefly described in one sentence.
-- Preferably open access or accompanied by accessible documentation/tutorials when possible.
+Contributions are welcome. 
 
 ### Suggested Pull Request Format
 
