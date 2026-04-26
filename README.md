@@ -58,7 +58,27 @@ Cambridge University Press, 2012).
 
 ## Topics in Neural Information and Cognition
 
-- []()
+### Books
+
+- [Bayesian Brain: Probabilistic Approaches to Neural Coding](https://mitpress.mit.edu/9780262042383/bayesian-brain/) - Kenji Doya, Shin Ishii, Alexandre Pouget, and Rajesh P. N. Rao, editors (MIT Press, 2007).
+- [The Probabilistic Mind](https://global.oup.com/academic/product/the-probabilistic-mind-9780199216093) - Nick Chater and Mike Oaksford, editors (Oxford University Press, 2008).
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Richard S. Sutton and Andrew G. Barto (MIT Press, 2018). Free online book.
+- [Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems](https://mitpress.mit.edu/9780262550604/neural-engineering/) - Chris Eliasmith and Charles H. Anderson (MIT Press, 2003). Representation and dynamics in neural systems.
+- [How to Build a Brain](https://global.oup.com/academic/product/how-to-build-a-brain-9780199794546) - Chris Eliasmith (Oxford University Press, 2013). Large-scale cognitive neural modeling.
+- [Surfing Uncertainty](https://global.oup.com/academic/product/surfing-uncertainty-9780190217013) - Andy Clark (Oxford University Press, 2016). Predictive processing and cognition.
+- [Active Inference](https://mitpress.mit.edu/9780262045353/active-inference/) - Thomas Parr, Giovanni Pezzulo, and Karl J. Friston (MIT Press, 2022). Free-energy and active inference tutorial.
+
+### Articles and Reviews
+
+- [The Bayesian brain: the role of uncertainty in neural coding and computation](https://doi.org/10.1016/j.tins.2004.10.007) - Knill and Pouget (Trends in Neurosciences, 2004). Bayesian coding review.
+- [Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects](https://doi.org/10.1038/4580) - Rao and Ballard (Nature Neuroscience, 1999). Predictive coding model.
+- [A theory of cortical responses](https://doi.org/10.1098/rstb.2005.1622) - Friston (Philosophical Transactions B, 2005). Predictive coding/free-energy framework.
+- [The free-energy principle: a unified brain theory?](https://doi.org/10.1038/nrn2787) - Friston (Nature Reviews Neuroscience, 2010). Influential synthesis.
+- [Probabilistic brains: knowns and unknowns](https://doi.org/10.1038/nn.3495) - Pouget, Beck, Ma, and Latham (Nature Neuroscience, 2013). Probabilistic population codes.
+- [The neural basis of the Weber–Fechner law](https://doi.org/10.1073/pnas.0908784106) - Dehaene (PNAS, 2009). Example of mathematical psychophysics and neural coding.
+- [A distributional code for value in dopamine-based reinforcement learning](https://doi.org/10.1038/s41586-019-1924-6) - Dabney et al. (Nature, 2020). Distributional reinforcement learning in dopamine systems.
+- [A neuronal model of a global workspace in effortful cognitive tasks](https://doi.org/10.1073/pnas.98.24.13763) - Dehaene, Kerszberg, and Changeux (PNAS, 2001). Mathematical model of global workspace dynamics.
+- [Cognitive map representations in the hippocampus](https://doi.org/10.1146/annurev-neuro-062111-150314) - Moser, Kropff, and Moser (Annual Review of Neuroscience, 2008). Spatial coding and cognitive maps.
 
 ## Topics in Multiscale Brain Modeling
 
