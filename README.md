@@ -62,7 +62,6 @@ Cambridge University Press, 2012).
 
 - [Bayesian Brain: Probabilistic Approaches to Neural Coding](https://mitpress.mit.edu/9780262042383/bayesian-brain/) - Kenji Doya, Shin Ishii, Alexandre Pouget, and Rajesh P. N. Rao, editors (MIT Press, 2007).
 - [The Probabilistic Mind](https://global.oup.com/academic/product/the-probabilistic-mind-9780199216093) - Nick Chater and Mike Oaksford, editors (Oxford University Press, 2008).
-- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Richard S. Sutton and Andrew G. Barto (MIT Press, 2018). Free online book.
 - [Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems](https://mitpress.mit.edu/9780262550604/neural-engineering/) - Chris Eliasmith and Charles H. Anderson (MIT Press, 2003). Representation and dynamics in neural systems.
 - [How to Build a Brain](https://global.oup.com/academic/product/how-to-build-a-brain-9780199794546) - Chris Eliasmith (Oxford University Press, 2013). Large-scale cognitive neural modeling.
 - [Surfing Uncertainty](https://global.oup.com/academic/product/surfing-uncertainty-9780190217013) - Andy Clark (Oxford University Press, 2016). Predictive processing and cognition.
@@ -82,4 +81,4 @@ Cambridge University Press, 2012).
 
 ## Topics in Multiscale Brain Modeling
 
-- []()
+- [Systematic integration of structural and functional data into multi-scale models of mouse primary visual cortex](https://doi.org/10.1016/j.neuron.2020.01.040) - Billeh et al. (Neuron, 2020). Data-driven multiscale cortical model.
