@@ -70,14 +70,6 @@ Cambridge University Press, 2012).
 ### Articles and Reviews
 
 - [The Bayesian brain: the role of uncertainty in neural coding and computation](https://doi.org/10.1016/j.tins.2004.10.007) - Knill and Pouget (Trends in Neurosciences, 2004). Bayesian coding review.
-- [Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects](https://doi.org/10.1038/4580) - Rao and Ballard (Nature Neuroscience, 1999). Predictive coding model.
-- [A theory of cortical responses](https://doi.org/10.1098/rstb.2005.1622) - Friston (Philosophical Transactions B, 2005). Predictive coding/free-energy framework.
-- [The free-energy principle: a unified brain theory?](https://doi.org/10.1038/nrn2787) - Friston (Nature Reviews Neuroscience, 2010). Influential synthesis.
-- [Probabilistic brains: knowns and unknowns](https://doi.org/10.1038/nn.3495) - Pouget, Beck, Ma, and Latham (Nature Neuroscience, 2013). Probabilistic population codes.
-- [The neural basis of the Weber–Fechner law](https://doi.org/10.1073/pnas.0908784106) - Dehaene (PNAS, 2009). Example of mathematical psychophysics and neural coding.
-- [A distributional code for value in dopamine-based reinforcement learning](https://doi.org/10.1038/s41586-019-1924-6) - Dabney et al. (Nature, 2020). Distributional reinforcement learning in dopamine systems.
-- [A neuronal model of a global workspace in effortful cognitive tasks](https://doi.org/10.1073/pnas.98.24.13763) - Dehaene, Kerszberg, and Changeux (PNAS, 2001). Mathematical model of global workspace dynamics.
-- [Cognitive map representations in the hippocampus](https://doi.org/10.1146/annurev-neuro-062111-150314) - Moser, Kropff, and Moser (Annual Review of Neuroscience, 2008). Spatial coding and cognitive maps.
 
 ## Topics in Multiscale Brain Modeling
 
